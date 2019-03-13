@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab4B_BL</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calculateButtonText">Calculate</string>
+    <string name="peopleLabelText">Number of People</string>
+    <string name="tipPercentLabelText">Tip Percentage</string>
+    <string name="totalBillLabelText">Total Bill</string>
+    <string name="milesLabelText">Miles</string>
+    <string name="kilometersLabelText">Kilometers</string>
+    <string name="convertButtonText">Convert</string>
+    <string name="fahrenheitLabelText">Fahrenheit</string>
+    <string name="celsiusLabelText">Celsius</string>
+</resources>
